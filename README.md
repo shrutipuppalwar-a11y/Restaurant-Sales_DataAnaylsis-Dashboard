@@ -65,8 +65,8 @@ The analysis is built on a dataset structured across five sheets, each providing
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot1.png)
-![Dashboard Preview](Dashboard_Screenshot2.png)
+![Dashboard Preview](Dashborad_Screenshot1.png)
+![Dashboard Preview](Dashborad_Screenshot2.png)
 ... (Add more screenshots if desired)
 
 ---
